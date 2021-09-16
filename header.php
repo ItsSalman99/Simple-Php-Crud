@@ -7,7 +7,7 @@
     <title>Index</title>
     <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
 </head>
-<body>
+<body class="bg-gray-200">
 
     <header>
         <nav class="bg-gray-800 py-8 px-8">
